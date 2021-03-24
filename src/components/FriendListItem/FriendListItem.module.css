@@ -1,0 +1,36 @@
+.item {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px 10px;
+  box-shadow: -2px 7px 12px -3px rgba(8, 12, 15, 0.28);
+}
+.statusActive {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: green;
+}
+.statusInactive {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+}
+.avatar {
+  border-radius: 8px;
+  margin-left: 20px;
+  background-color: rgba(8, 12, 15, 0.28);
+}
+.name {
+  margin-left: 20px;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.24;
+  color: black;
+}
+/* как убрать последний марджин, следует подусать */
