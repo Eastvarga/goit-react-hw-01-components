@@ -1,0 +1,12 @@
+.container {
+  display: block;
+  width: 1024px;
+  padding: 40px 20px;
+  margin: auto;
+}
+ul {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
