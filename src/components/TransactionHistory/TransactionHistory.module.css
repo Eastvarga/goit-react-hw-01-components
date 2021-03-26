@@ -4,6 +4,7 @@
   margin: 0 auto; */
   font-family: sans-serif;
   border-collapse: collapse;
+  font-size: 18px;
   width: 100%;
   border-radius: 6px;
 }
@@ -11,6 +12,7 @@
 .transactionHistory th {
   border: 1px solid #ddd;
   padding: 8px;
+  font-size: 14px;
   text-align: center;
   text-transform: capitalize;
   color: rgba(8, 12, 15, 0.58);
